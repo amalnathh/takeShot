@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:padding="6dp"
+    android:layout_margin="3dp"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/vaccine"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        android:gravity="bottom"
+        android:text="COVISHEILD"
+        android:textSize="15sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/session_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="bottom"
+        android:text="30-05-21"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.681"
+        app:layout_constraintStart_toEndOf="@+id/dose"
+        app:layout_constraintTop_toTopOf="@+id/dose" />
+
+    <TextView
+        android:id="@+id/capacity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="28dp"
+        android:gravity="bottom"
+        android:text="BOOKED"
+        android:textColor="#FD0000"
+        android:textSize="13sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toEndOf="@+id/vaccine"
+        app:layout_constraintTop_toTopOf="@+id/vaccine" />
+
+    <!--    <TextView-->
+    <!--        android:id="@+id/age_fee"-->
+    <!--        android:layout_width="wrap_content"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:layout_marginTop="6dp"-->
+    <!--        android:text="age: 18, fee: Free"-->
+    <!--        android:textSize="12sp"-->
+    <!--        app:layout_constraintStart_toStartOf="@+id/vaccine"-->
+    <!--        app:layout_constraintTop_toBottomOf="@+id/vaccine" />-->
+
+    <TextView
+        android:id="@+id/age"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/info_bg"
+        android:layout_marginTop="3dp"
+        android:paddingStart="4dp"
+        android:paddingEnd="6dp"
+        android:text="18"
+        app:layout_constraintStart_toStartOf="@+id/vaccine"
+        app:layout_constraintTop_toBottomOf="@+id/vaccine" />
+
+    <TextView
+        android:id="@+id/fee"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/info_bg"
+        android:layout_marginStart="10dp"
+        android:paddingStart="6dp"
+        android:paddingEnd="6dp"
+        android:text="free"
+        app:layout_constraintBottom_toBottomOf="@+id/age"
+        app:layout_constraintStart_toEndOf="@+id/age" />
+
+    <TextView
+        android:id="@+id/dose"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="12dp"
+        android:gravity="bottom"
+        android:text="doses"
+        app:layout_constraintStart_toEndOf="@+id/capacity"
+        app:layout_constraintTop_toTopOf="@+id/capacity" />
+</androidx.constraintlayout.widget.ConstraintLayout>

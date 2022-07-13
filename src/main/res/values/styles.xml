@@ -1,0 +1,42 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorLightBlue</item>
+        <item name="colorAccent">@color/colorLightBlue</item>
+        <item name="background">@color/fontColorDark</item>
+    </style>
+
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorLightBlue2</item>
+        <item name="colorAccent">@color/colorLightBlue</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AddNewProfileOutlineTextBox" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense">
+        <item name="boxStrokeColor">@color/colorLightBlue2</item>
+        <item name="android:textColorHint">@color/fontColorDark</item>
+        <item name="android:textColor">@color/fontColorDark</item>
+        <item name="colorAccent">@color/colorLighterDark</item>
+        <item name="hintTextColor">@color/colorLightBlue2</item>
+        <item name="boxStrokeWidth">1dp</item>
+    </style>
+
+    <style name="AddNewProfileOutlineAutoCompleteView" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense.ExposedDropdownMenu">
+        <item name="boxStrokeColor">@color/colorLightBlue2</item>
+        <item name="colorAccent">@color/colorLighterDark</item>
+        <item name="android:textColorHint">@color/fontColorDark</item>
+        <item name="hintTextColor">@color/colorLightBlue2</item>
+        <item name="boxStrokeWidth">1dp</item>
+    </style>
+
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>

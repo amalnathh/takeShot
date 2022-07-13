@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/change_state_dis"
+        android:enabled="true"
+        android:title="@string/change_district"
+        android:visible="true" />
+    <item
+        android:id="@+id/available_centers_only"
+        android:checkable="true"
+        android:title="@string/availble_centers_only"
+        />
+</menu>

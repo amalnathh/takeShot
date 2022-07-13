@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">takeShot</string>
+    <string name="title_activity_tabbed">TabbedActivity</string>
+    <string name="tab_text_1">Settings</string>
+    <string name="tab_text_2">Profiles</string>
+    <string name="tab_text_3">CheckVaccine</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <string name="app_header">App</string>
+
+    <string name="access_denied">403</string>
+    <string name="voic_noti_menu">Enable voice notificaton</string>
+    <string name="voic_noti_summ_name">Shout out vaccines are available</string>
+    <string name="dark_mode_title">Dark mode</string>
+    <string name="dark_mode_summ">Enable dark mode</string>
+    <string name="about_header">About us</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="info_title">About</string>
+    <string name="access_location">Access location</string>
+    <string name="title_activity_maisdhvfakehvfkhqey">Maisdhvfakehvfkhqey</string>
+    <string name="vaccines_available">Vaccines are available</string>
+    <string name="search">Search</string>
+    <string name="availble_centers_only">Availble centers only</string>
+    <string name="change_district">Change District</string>
+    <string name="add_state_and_district">Add state and district</string>
+    <string name="close">Close</string>
+</resources>

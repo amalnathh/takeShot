@@ -1,0 +1,470 @@
+[
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_radiobg_bottom.xml.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\src\\main\\res\\drawable\\radiobg_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_card_background.xml.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\src\\main\\res\\drawable\\card_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_chevron_left_24.xml.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\src\\main\\res\\drawable\\ic_baseline_chevron_left_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_setdatabg.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_setdatabg.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_vc_ac_recyler_bg.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_vc_ac_recyler_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_vc_ac_recyler_bg.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_vc_ac_recyler_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_takeshot_logo_fg.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_takeshot_logo_fg.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_takeshot_logo_fg.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_takeshot_logo_fg.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_takeshot_logo_fg.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_takeshot_logo_fg.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_done_24.xml.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\src\\main\\res\\drawable\\ic_baseline_done_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search_black_24dp.xml.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\src\\main\\res\\drawable\\ic_search_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\layout_vaccine_checker_fragment.xml.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\src\\main\\res\\layout\\vaccine_checker_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\layout_vaccine_checker_centers.xml.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\src\\main\\res\\layout\\vaccine_checker_centers.xml"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_intro_bg.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_intro_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_search_white.xml.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\src\\main\\res\\drawable\\ic_baseline_search_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_vaccine_icon.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_vaccine_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ripple.xml.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\src\\main\\res\\drawable\\ripple.xml"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_setdatabg.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_setdatabg.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_chevron_right_24.xml.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\src\\main\\res\\drawable\\ic_baseline_chevron_right_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_vc_ac_bg.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_vc_ac_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_help_24.xml.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\src\\main\\res\\drawable\\ic_baseline_help_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_vc_ac_recyler_bg.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_vc_ac_recyler_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_stop_24.xml.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\src\\main\\res\\drawable\\ic_baseline_stop_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_settings_24.xml.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\src\\main\\res\\drawable\\ic_baseline_settings_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_takeshot_logo_fg.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_takeshot_logo_fg.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\src\\main\\res\\drawable\\ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_takeshot_logo_fg.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_takeshot_logo_fg.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_exit_to_app_24.xml.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\src\\main\\res\\drawable\\ic_baseline_exit_to_app_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\layout_settings_activity.xml.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\src\\main\\res\\layout\\settings_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_intro_bg.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_intro_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_intro_bg.xml.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_intro_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_vaccine_icon.xml.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_vaccine_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_setdatabg.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_setdatabg.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_edit_24.xml.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\src\\main\\res\\drawable\\ic_baseline_edit_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_vaccine_icon.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_vaccine_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_vc_ac_bg.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_vc_ac_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile_expanded.xml.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\src\\main\\res\\layout\\activity_profile_expanded.xml"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_vc_ac_recyler_bg.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_vc_ac_recyler_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_takeshot_logo_bg.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_takeshot_logo_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_select_centers.xml.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\src\\main\\res\\layout\\activity_select_centers.xml"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\layout_individual_center.xml.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\src\\main\\res\\layout\\individual_center.xml"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\xml_root_preferences.xml.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\src\\main\\res\\xml\\root_preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_radiobg.xml.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\src\\main\\res\\drawable\\radiobg.xml"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_close_24.xml.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\src\\main\\res\\drawable\\ic_baseline_close_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_vaccine_icon.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_vaccine_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_vaccine_icon.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_vaccine_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_intro_bg.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_intro_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_web_view.xml.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\src\\main\\res\\layout\\activity_web_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_takeshot_logo_bg.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_takeshot_logo_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_about.xml.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_my_location_24.xml.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\src\\main\\res\\drawable\\ic_baseline_my_location_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_vc_ac_bg.xml.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_vc_ac_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tabbed.xml.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\src\\main\\res\\layout\\activity_tabbed.xml"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_vc_ac_bg.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_vc_ac_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_intro_bg.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_intro_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_setdatabg.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_setdatabg.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_setdatabg.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_setdatabg.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_vc_ac_bg.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_vc_ac_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_vc_ac_bg.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_vc_ac_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\layout_profiles_fragment.xml.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\src\\main\\res\\layout\\profiles_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_vc_ac_recyler_bg.xml.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_vc_ac_recyler_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\layout_individual_profile.xml.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\src\\main\\res\\layout\\individual_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_setdatabg.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_setdatabg.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_intro_bg.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_intro_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_takeshot_logo_bg.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_takeshot_logo_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_takeshot_logo_fg.xml.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_takeshot_logo_fg.xml"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_takeshot_logo_bg.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_takeshot_logo_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_info_24.xml.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\src\\main\\res\\drawable\\ic_baseline_info_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_vc_ac_recyler_bg.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_vc_ac_recyler_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_vc_ac_recyler_bg.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_vc_ac_recyler_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_info_bg.xml.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\src\\main\\res\\drawable\\info_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_delete_24.xml.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\src\\main\\res\\drawable\\ic_baseline_delete_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\src\\main\\res\\drawable\\ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_takeshot_logo_bg.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_takeshot_logo_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\menu_vaccine_checker_fragment_menu.xml.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\src\\main\\res\\menu\\vaccine_checker_fragment_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_setdatabg.xml.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_setdatabg.xml"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_intro_bg.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_intro_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_vaccine_icon.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_vaccine_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_hint.xml.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\src\\main\\res\\drawable\\background_hint.xml"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_vaccine_icon.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_vaccine_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_takeshot_logo_bg.xml.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_takeshot_logo_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu.xml.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_vc_ac_bg.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_vc_ac_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_takeshot_logo_bg.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_takeshot_logo_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_user.xml.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\src\\main\\res\\layout\\activity_add_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_tabbed.xml.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\src\\main\\res\\layout\\fragment_tabbed.xml"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\layout_sessions_item.xml.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\src\\main\\res\\layout\\sessions_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_new_user.xml.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\src\\main\\res\\layout\\activity_new_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\menu_select_centers_menu.xml.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\src\\main\\res\\menu\\select_centers_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_takeshot_logo_fg.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_takeshot_logo_fg.png"
+    },
+    {
+        "merged": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\amalnath\\AndroidStudioProjects\\takeShot\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_foreground.png"
+    }
+]
